@@ -1,0 +1,5 @@
+-[ ] User can create a deposit transaction
+-[ ] User can create a withdrawal transaction
+-[ ] User can see the balance of his/her account
+-[ ] User can see the history of his/her transactions
+-[ ] User balance updates after each transaction
